@@ -1,0 +1,4 @@
+C:\Users\Varuna Lakshan\Downloads\IHelloRemotingService\IHelloRemotingService\bin\Debug\IHelloRemotingService.dll
+C:\Users\Varuna Lakshan\Downloads\IHelloRemotingService\IHelloRemotingService\bin\Debug\IHelloRemotingService.pdb
+C:\Users\Varuna Lakshan\Downloads\IHelloRemotingService\IHelloRemotingService\obj\Debug\IHelloRemotingService.dll
+C:\Users\Varuna Lakshan\Downloads\IHelloRemotingService\IHelloRemotingService\obj\Debug\IHelloRemotingService.pdb

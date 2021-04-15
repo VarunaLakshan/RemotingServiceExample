@@ -1,0 +1,8 @@
+C:\Users\Varuna Lakshan\Downloads\IHelloRemotingService\HelloRemotingService\bin\Debug\HelloRemotingService.dll
+C:\Users\Varuna Lakshan\Downloads\IHelloRemotingService\HelloRemotingService\bin\Debug\HelloRemotingService.pdb
+C:\Users\Varuna Lakshan\Downloads\IHelloRemotingService\HelloRemotingService\bin\Debug\IHelloRemotingService.dll
+C:\Users\Varuna Lakshan\Downloads\IHelloRemotingService\HelloRemotingService\bin\Debug\IHelloRemotingService.pdb
+C:\Users\Varuna Lakshan\Downloads\IHelloRemotingService\HelloRemotingService\obj\Debug\HelloRemotingService.csprojAssemblyReference.cache
+C:\Users\Varuna Lakshan\Downloads\IHelloRemotingService\HelloRemotingService\obj\Debug\HelloRemotingService.csproj.CopyComplete
+C:\Users\Varuna Lakshan\Downloads\IHelloRemotingService\HelloRemotingService\obj\Debug\HelloRemotingService.dll
+C:\Users\Varuna Lakshan\Downloads\IHelloRemotingService\HelloRemotingService\obj\Debug\HelloRemotingService.pdb
